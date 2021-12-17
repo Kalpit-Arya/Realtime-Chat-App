@@ -1,2 +1,2 @@
 # chat-application
-https://mihir--chat-app.herokuapp.com/
+This is a realtime chat application uaing web sockets.
